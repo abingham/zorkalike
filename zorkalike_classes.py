@@ -35,7 +35,6 @@ class Room(object):
         """
         return False
 
-a
 class LlamaRoom(Room):
     """This is a subclass of Room which contains some llamas.
     """
